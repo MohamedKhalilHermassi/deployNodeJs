@@ -1,0 +1,19 @@
+{
+    "mongo":{
+
+        "uri": "mongodb+srv://khalilherma6:mr7KXD7s8DG8QIfh@cluster0.hktrnxu.mongodb.net/elkindy?retryWrites=true&w=majority"
+    },
+    "token":{
+        "secret":"Elkindy-secret-key"
+    },
+    "cors":{
+        "options":"http://localhost:5173"
+
+    },
+    "email":{
+        "email":"elfadanes@gmail.com",
+        "pwd":"dkztciotkzncaxwi"
+    }
+   
+
+}
